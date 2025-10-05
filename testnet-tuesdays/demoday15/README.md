@@ -68,3 +68,5 @@ docker-compose up -d
 ## Support
 
 If you encounter any issues during the demo day, please reach out in the #interchain-security-testnet Discord channel.
+
+<!-- Auto-update: 2025-10-05T17:00:12.883741 -->
